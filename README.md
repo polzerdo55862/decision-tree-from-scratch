@@ -1,1 +1,1 @@
-# decision-tree-from-scratch
+# 7-most-used-tree-based-algorithms
