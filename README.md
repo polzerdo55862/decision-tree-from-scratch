@@ -9,8 +9,7 @@ This repo contains code snippets and datasets used in my Medium article "Tree-ba
 * Python: 
   * Pandas
   * Scikit-learn
-  * Tensorflow
-  * Scipy
+  * Numpy
   
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
